@@ -101,7 +101,7 @@ user will be able to easily signup, add his resume and apply for jobs in three s
 ##  Using a Database? Make an Database Schema Diagram
 
 
-<img src="https://i.ibb.co/y69bzQY/diagram.png" alt="drawing" width="200"/>
+<img src="https://i.ibb.co/y69bzQY/diagram.png" alt="drawing" width="500"/>
 
 
 
